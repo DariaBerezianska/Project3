@@ -1,11 +1,12 @@
 package part3_1;
 
 import javax.swing.*;
+import java.awt.*;
 
-public class BorderLayout {
+public class BorderLayoutEx {
     public static void main(String[] args) {
         JFrame frame = new JFrame("BorderLayout");
-        frame.setLayout(new java.awt.BorderLayout());
+        frame.setLayout(new BorderLayout());
         addLabel(frame, "north", "north");
         addLabel(frame, "south", "south");
         addLabel(frame, "east", "east");

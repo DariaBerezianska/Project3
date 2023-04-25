@@ -1,10 +1,9 @@
 package part3_1;
 
 import javax.swing.*;
-import java.awt.*;
 import java.awt.FlowLayout;
 
-public class TextField {
+public class TextFieldEx {
     public static void main(String[] args) {
         JFrame frame = new JFrame("TextField");
         frame.setLayout(new FlowLayout());

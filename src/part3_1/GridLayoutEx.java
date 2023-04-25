@@ -1,11 +1,12 @@
 package part3_1;
 
 import javax.swing.*;
+import java.awt.*;
 
-public class GridLayout {
+public class GridLayoutEx {
     public static void main(String[] args) {
         JFrame frame = new JFrame("GridLayout");
-        frame.setLayout( new java.awt.GridLayout(3,2));
+        frame.setLayout( new GridLayout(3,2));
         addButton(frame, "drama");
         addButton(frame, "comedy");
         addButton(frame, "adventure");

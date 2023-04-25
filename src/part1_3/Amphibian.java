@@ -1,2 +1,4 @@
-package part1_3;public class Amphibian {
+package part1_3;
+//8. abstract class Amphibian implements SoundMaker
+public abstract class Amphibian implements SoundMaker {
 }

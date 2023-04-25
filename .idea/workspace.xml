@@ -1,14 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d627803a-ea72-47e2-81d1-b416e65eb733" name="Changes" comment="" />
+    <list default="true" id="d627803a-ea72-47e2-81d1-b416e65eb733" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part1_1/Superclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part1_2/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part1_3/Amphibian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part1_3/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part1_3/Bee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part1_3/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part1_3/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part1_3/Cricket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part1_3/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part1_3/Frog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part1_3/Insect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part1_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part1_3/Pig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part1_3/SoundMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part2/DeliveryFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part3_1/BorderLayoutEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part3_1/BoxLayoutEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part3_1/FlowLayoutEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part3_1/GridLayoutEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part3_1/TextFieldEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/part3_2/Application.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Okjd09tpLjfvcPNeg6rWaSvDll" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,6 +59,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
@@ -31,8 +71,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682111562609</updated>
+      <workItem from="1682111563774" duration="48928000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -44,5 +88,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
